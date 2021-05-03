@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndDogsDB", "CatsAndDogsDB.csproj", "{995AF24C-8283-4041-AA8D-1CC30B1295DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995AF24C-8283-4041-AA8D-1CC30B1295DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995AF24C-8283-4041-AA8D-1CC30B1295DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995AF24C-8283-4041-AA8D-1CC30B1295DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995AF24C-8283-4041-AA8D-1CC30B1295DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D3841D-80C5-41DD-8E53-270C10E9AC0E}
+	EndGlobalSection
+EndGlobal
